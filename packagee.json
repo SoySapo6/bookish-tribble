@@ -1,0 +1,11 @@
+{
+  "name": "livepeer-streamer",
+  "version": "1.0.0",
+  "description": "Streamer de video a Livepeer usando ffmpeg en Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Maycol",
+  "license": "MIT"
+}
